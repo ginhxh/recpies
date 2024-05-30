@@ -1,0 +1,105 @@
+p {
+  font-family: outfit;
+  margin-bottom: 0;
+  margin-top: 0;
+  margin-left: 20px;
+}
+.all {
+  display: block;
+  margin-left: 20px;
+}
+img {
+  width: 800px;
+
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 20px;
+  margin-bottom: 20px;
+}
+.p1 {
+  font-size: 36px;
+  font-family: young-serif;
+  margin-left: 12px;
+  font-weight: 600;
+  margin-bottom: 12px;
+}
+.p2 {
+  font-size: 12px;
+  width: 466px;
+  margin-bottom: 35px;
+}
+.pre {
+  font-size: 12px;
+  background-color: hsl(330, 100%, 98%);
+}
+.ul1 {
+  margin-left: 4px;
+  height: 70px;
+  margin-bottom: 12px;
+}
+.ul1 li {
+  margin-bottom: 8px;
+}
+.p3 {
+  color: hsl(332, 51%, 32%);
+  font-size: 16px;
+  font-weight: 600;
+  margin-bottom: 4px;
+}
+.p4 {
+  font-size: 24px;
+  color: hsl(14, 45%, 36%);
+  font-family: young-serif;
+  font-weight: 700;
+  margin-bottom: 6px;
+}
+.ul2 {
+}
+.ul2 li {
+  font-size: 12px;
+  margin-bottom: 6px;
+}
+
+hr {
+  border: 0.1px solid hsl(30, 18%, 87%);
+  margin-bottom: 22px;
+}
+.p5 {
+  font-size: 24px;
+  color: hsl(14, 45%, 36%);
+  font-family: young-serif;
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+.ol li {
+  font-size: 12px;
+  margin-bottom: 6px;
+  width: 400px;
+}
+span {
+  font-weight: 900;
+}
+.p6 {
+  margin-bottom: 12px;
+}
+.w1 {
+  display: block;
+  font-family: outfit;
+}
+.aa,
+.q,
+.z {
+  vertical-align: top;
+  display: inline-block;
+  color: hsl(24, 5%, 18%);
+}
+.aa {
+  margin-left: 200px;
+  color: hsl(14, 45%, 36%);
+  font-weight: 600;
+}
+.z {
+  margin-left: 235px;
+  color: hsl(14, 45%, 36%);
+  font-weight: 600;
+}
